@@ -1,0 +1,15 @@
+Package: firstpkg
+Type: Package
+Title: Calculo do IMC corporal, analisi qualitativa e sugestao de peso ideal
+Version: 0.1.0
+Author: Stella Januario
+Maintainer: Stella Januario <stella.mjs@gmail.com>
+Description: Com este paquete e possivel calcular o IMC corporal, fazer uma analisis
+qualitativa e uma sugestao do peso ideal em funcao do valor do IMC
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.0
+URL: https://github.com/stellamjs/firstpkg
+BugReports: https://github.com/stellamjs/firstpkg/issues
+Imports: dplyr
