@@ -4,8 +4,7 @@ Title: Calculo do IMC corporal, analisi qualitativa e sugestao de peso ideal
 Version: 0.1.0
 Author: Stella Januario
 Maintainer: Stella Januario <stella.mjs@gmail.com>
-Description: Com este paquete e possivel calcular o IMC corporal, fazer uma analisis
-qualitativa e uma sugestao do peso ideal em funcao do valor do IMC
+Description: Com este paquete e possivel calcular o IMC corporal, fazer uma analisis qualitativa e uma sugestao do peso ideal em funcao do valor do IMC
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
