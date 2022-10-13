@@ -20,3 +20,10 @@ pesoptm <- function(peso, imc, altura){
   resul<-ifelse (imc <= 22, peso, (altura^2)*22)
   return(resul)
 }
+
+#' try new function
+#' just to see how it is going to work
+hendra_cedar_results <- function(database.connection.object) {
+  rs <-  RMySQL::dbSendQuery(database.connection.object, "select * from hendra_cedar_results")
+  RMySQL::fetch(rs, n = -1)
+}
